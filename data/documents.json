@@ -1,0 +1,352 @@
+[
+  {
+    "id": "faq_001",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "What is TechFlow? TechFlow is an AI-powered project management platform that automates task assignments, deadline tracking, and team communication for software development and operations teams."
+  },
+  {
+    "id": "faq_002",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "How does TechFlow integrate with Slack? TechFlow connects to Slack via OAuth 2.0. Once connected, it sends automated notifications for task updates, deadline reminders, and project milestones directly to your chosen Slack channels."
+  },
+  {
+    "id": "faq_003",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Does TechFlow have a mobile app? Yes. TechFlow offers native iOS and Android apps available on the App Store and Google Play. The mobile app supports task management, notifications, and project dashboards. Some advanced admin features are desktop-only."
+  },
+  {
+    "id": "faq_004",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "What integrations does TechFlow support? TechFlow integrates with Slack, Microsoft Teams, GitHub, GitLab, Jira, Asana, Google Workspace, Salesforce, Zapier, and over 200 other tools via our REST API and native connectors."
+  },
+  {
+    "id": "faq_005",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "How does TechFlow's AI task auto-assignment work? TechFlow analyzes each task's required skills, estimated effort, and priority, then matches it to the best available team member based on their workload, past performance, and skill tags. Managers can override assignments at any time."
+  },
+  {
+    "id": "faq_006",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Can I import data from Asana or Trello into TechFlow? Yes. TechFlow provides a one-click import wizard for Asana, Trello, Jira, and Basecamp. The import maps projects, tasks, subtasks, due dates, and assignees automatically. Attachments are imported if under 100MB each."
+  },
+  {
+    "id": "faq_007",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Is there a free trial for TechFlow? Yes. TechFlow offers a 14-day free trial on all paid plans with no credit card required. After the trial, your account downgrades to the free Starter plan unless you add a payment method."
+  },
+  {
+    "id": "faq_008",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Does TechFlow support single sign-on (SSO)? SSO via SAML 2.0 and OIDC is available on Business and Enterprise plans. TechFlow supports identity providers including Okta, Azure Active Directory, Google Workspace, and OneLogin."
+  },
+  {
+    "id": "faq_009",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Can I export my project data from TechFlow? Yes. All plans support data export. You can export projects, tasks, comments, and time logs as CSV or JSON at any time from Settings > Data Export. Enterprise plans also support scheduled automated exports via API."
+  },
+  {
+    "id": "faq_010",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "How does TechFlow handle time zone differences for distributed teams? TechFlow displays all deadlines and meeting times in each user's local time zone. Project owners can set a canonical project time zone for reporting. Overlap hours between team members are visible in the Team Availability view."
+  },
+  {
+    "id": "faq_011",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Does TechFlow offer an API for custom integrations? Yes. TechFlow provides a REST API and webhook support on all paid plans. API documentation is available at docs.techflow.io/api. Rate limits are 1,000 requests per minute on Business plans and unlimited on Enterprise."
+  },
+  {
+    "id": "faq_012",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "Can I customize notification settings in TechFlow? Yes. Each user controls their own notification preferences under Profile > Notifications. You can choose which events trigger email, in-app, or Slack notifications, and set quiet hours to avoid off-hours alerts."
+  },
+  {
+    "id": "faq_013",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "What AI features are included in TechFlow? TechFlow AI features include: automatic task assignment, deadline risk prediction, sprint velocity forecasting, meeting summary generation, and natural language task creation. All AI features can be toggled on or off per workspace."
+  },
+  {
+    "id": "faq_014",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "How do I invite team members to TechFlow? Go to Settings > Team > Invite Members. Enter email addresses (comma-separated for bulk invites), assign a role (Admin, Member, or Viewer), and click Send Invites. Invitees receive an email with a signup link valid for 7 days."
+  },
+  {
+    "id": "faq_015",
+    "category": "product_faq",
+    "source": "FAQ",
+    "date": "2025-01-01",
+    "text": "What happens to my data if I cancel my TechFlow subscription? Your data is retained for 90 days after cancellation. During this period you can export everything. After 90 days, data is permanently deleted per our data retention policy. Reactivating within 90 days restores your full workspace."
+  },
+  {
+    "id": "policy_001",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Remote Work Policy: TechFlow employees may work remotely up to 3 days per week. Core hours are 10am to 3pm in the employee's local time zone. Attendance at the weekly all-hands meeting on Thursdays at 10am PT is mandatory regardless of location."
+  },
+  {
+    "id": "policy_002",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Paid Time Off (PTO): Full-time employees accrue 15 days of PTO per year in the first two years, increasing to 20 days after two years of tenure. PTO requests must be submitted at least 5 business days in advance through the HR portal. A maximum of 10 days may be carried over to the following year."
+  },
+  {
+    "id": "policy_003",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Expense Reimbursement Policy: Business expenses up to $250 require a receipt and manager approval via the Expenses module in TechFlow. Expenses above $250 require VP-level approval. Reimbursements are processed within 10 business days and paid via direct deposit with the next payroll cycle."
+  },
+  {
+    "id": "policy_004",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Device and Equipment Policy: TechFlow provides a laptop (MacBook Pro M-series or equivalent) to all full-time employees. A one-time home office stipend of $500 is available after 90 days of employment. Equipment must be returned within 14 days of separation from the company."
+  },
+  {
+    "id": "policy_005",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Information Security Policy: All company data must be stored in approved cloud services (Google Workspace, TechFlow, Notion). Personal devices may only access company resources via approved VPN. Employees must not share credentials or install unapproved software on company devices."
+  },
+  {
+    "id": "policy_006",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Parental Leave Policy: TechFlow provides 16 weeks of fully paid parental leave for primary caregivers and 8 weeks for secondary caregivers, regardless of gender. Leave may begin up to 4 weeks before the expected birth or adoption date. Benefits continue throughout the leave period."
+  },
+  {
+    "id": "policy_007",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Code of Conduct: TechFlow expects all employees to act with integrity, respect, and transparency. Harassment, discrimination, and retaliation of any form are strictly prohibited. Violations should be reported to HR or the anonymous ethics hotline at ethics@techflow.io."
+  },
+  {
+    "id": "policy_008",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Performance Reviews: TechFlow conducts formal performance reviews twice per year — in June and December. Reviews include self-assessment, peer feedback, and a manager evaluation. Compensation adjustments linked to performance reviews take effect the first of the following quarter."
+  },
+  {
+    "id": "policy_009",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Learning and Development Budget: All full-time employees receive an annual L&D budget of $1,500 for courses, conferences, books, and certifications. Budget requests are submitted in TechFlow under the L&D category. Unused budget does not roll over to the next year."
+  },
+  {
+    "id": "policy_010",
+    "category": "company_policy",
+    "source": "Employee Handbook",
+    "date": "2025-01-01",
+    "text": "Sick Leave Policy: Employees accrue 1 day of sick leave per month, up to 12 days per year. Sick leave may be used for personal illness, medical appointments, or caring for an immediate family member. Unused sick leave rolls over to the following year up to a maximum of 24 days."
+  },
+  {
+    "id": "support_001",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to reset your TechFlow password: Go to the login page at app.techflow.io and click 'Forgot password'. Enter your registered email address and click 'Send reset link'. Check your inbox for an email from noreply@techflow.io — the reset link expires in 60 minutes. If you do not receive the email, check your spam folder or contact support."
+  },
+  {
+    "id": "support_002",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "Troubleshooting login errors: If you see 'Invalid credentials', verify your email and password are correct and that Caps Lock is off. If you see 'Account suspended', contact your workspace admin. If you see 'Too many failed attempts', wait 15 minutes before trying again or use the password reset flow."
+  },
+  {
+    "id": "support_003",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to set up the GitHub integration: Navigate to Settings > Integrations > GitHub. Click 'Connect GitHub' and authorize TechFlow in the GitHub OAuth dialog. Select which repositories to link to your TechFlow workspace. Once connected, pull requests and commits will automatically appear in related TechFlow tasks."
+  },
+  {
+    "id": "support_004",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to create an automated workflow in TechFlow: Go to Automations in the left sidebar. Click 'New Automation'. Choose a trigger (e.g., Task status changes to Done) and one or more actions (e.g., Notify assignee, Move to next sprint, Create follow-up task). Save and enable the automation. It will run automatically for all matching events."
+  },
+  {
+    "id": "support_005",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "What to do if TechFlow is loading slowly: First, check status.techflow.io for any ongoing incidents. If no incident is reported, try clearing your browser cache and cookies (Ctrl+Shift+Delete on Chrome). Disable browser extensions one at a time to identify conflicts. If the issue persists, contact support with your browser version and a screenshot."
+  },
+  {
+    "id": "support_006",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to recover a deleted task: Deleted tasks are moved to the Trash, accessible from the left sidebar under Archive > Trash. Tasks remain in Trash for 30 days before permanent deletion. To restore a task, open Trash, find the task, and click 'Restore'. Restored tasks return to their original project and status."
+  },
+  {
+    "id": "support_007",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to manage storage and what counts toward your limit: Files attached to tasks, comments, and projects count toward your workspace storage limit. Profile pictures and TechFlow-generated content do not count. To view current usage, go to Settings > Billing > Storage. You can free up space by deleting old attachments or archiving completed projects."
+  },
+  {
+    "id": "support_008",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "Error code TF-401: This error means your session has expired or your account lacks permission to perform this action. Log out and log back in to refresh your session. If the error persists after re-login, contact your workspace admin to verify your role and permission settings."
+  },
+  {
+    "id": "support_009",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "Error code TF-429: This error means you have exceeded the API rate limit for your plan. Business plans allow 1,000 API requests per minute. To resolve, reduce your request frequency or implement exponential backoff in your integration code. Contact sales to discuss upgrading to an Enterprise plan for unlimited API access."
+  },
+  {
+    "id": "support_010",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to set up two-factor authentication (2FA): Go to Profile > Security > Two-Factor Authentication. Click 'Enable 2FA'. Scan the QR code with an authenticator app (Google Authenticator, Authy, or 1Password). Enter the 6-digit code to verify setup. Save your backup codes in a secure location — these allow account recovery if you lose your authenticator device."
+  },
+  {
+    "id": "support_011",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to transfer workspace ownership: Only workspace Admins can transfer ownership. Go to Settings > Team > Members. Find the member you want to make the new owner and click the role dropdown next to their name. Select 'Transfer Ownership'. You will be required to confirm with your password. Ownership transfer is irreversible without the new owner's cooperation."
+  },
+  {
+    "id": "support_012",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to connect TechFlow to Microsoft Teams: Go to Settings > Integrations > Microsoft Teams. Click 'Connect Teams' and sign in with your Microsoft 365 account. Authorize the TechFlow Teams app. Select the Teams channels where you want TechFlow notifications to appear. You can configure separate channels for different project types."
+  },
+  {
+    "id": "support_013",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to bulk update tasks in TechFlow: In any task list view, check the checkbox on the left of each task you want to update. A bulk action toolbar appears at the top. You can bulk-update: assignee, due date, priority, status, labels, and project. Bulk actions apply to all selected tasks simultaneously and cannot be undone in bulk — proceed with care."
+  },
+  {
+    "id": "support_014",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to set up recurring tasks: Open any task and click the 'Recurrence' option in the right-hand task panel. Choose the frequency (daily, weekly, monthly, or custom). Set the start date and optionally an end date. When a recurring task is completed, TechFlow automatically creates the next instance with the same details and assignee."
+  },
+  {
+    "id": "support_015",
+    "category": "support_article",
+    "source": "Help Center",
+    "date": "2025-01-01",
+    "text": "How to generate a project status report: Go to your project, click Reports in the top navigation, and select 'Status Report'. Choose the date range and which sections to include (task completion rate, upcoming deadlines, team workload, blockers). Click 'Export PDF' or 'Share Link' to send the report to stakeholders outside TechFlow."
+  },
+  {
+    "id": "pricing_001",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow Starter Plan (Free): Up to 5 users, 3 active projects, 1GB storage, basic task management, and community support. No credit card required. The Starter plan does not include AI features, integrations, or API access."
+  },
+  {
+    "id": "pricing_002",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow Pro Plan: $15 per user per month (billed monthly) or $12 per user per month (billed annually). Includes unlimited projects, 50GB storage per workspace, all integrations, AI task assignment, API access at 500 requests per minute, and email support with a 24-hour response time SLA."
+  },
+  {
+    "id": "pricing_003",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow Business Plan: $28 per user per month (billed monthly) or $22 per user per month (billed annually). Includes everything in Pro plus SSO, advanced analytics, custom roles and permissions, 250GB storage, API access at 1,000 requests per minute, and priority support with a 4-hour response time SLA."
+  },
+  {
+    "id": "pricing_004",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow Enterprise Plan: Custom pricing based on team size and requirements. Includes everything in Business plus dedicated infrastructure, 99.99% uptime SLA, unlimited API access, custom data retention policies, audit logs, a dedicated customer success manager, and on-site onboarding. Contact sales@techflow.io for a quote."
+  },
+  {
+    "id": "pricing_005",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "Annual billing discount: Choosing annual billing saves 20% compared to month-to-month pricing on Pro and Business plans. Annual plans are billed upfront for the full year. Partial refunds are available within 30 days of the renewal date if you downgrade or cancel."
+  },
+  {
+    "id": "pricing_006",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow nonprofit and educational discounts: Registered nonprofits and accredited educational institutions receive a 50% discount on Pro and Business plans. To apply, email billing@techflow.io with proof of nonprofit status (EIN letter) or educational accreditation. Discount is applied to the next billing cycle after verification."
+  },
+  {
+    "id": "pricing_007",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "How billing works when you add or remove users mid-cycle: TechFlow uses prorated billing. When you add a user, you are charged a prorated amount for the remainder of the current billing period. When you remove a user, a credit is applied to your next invoice. Credits do not expire as long as your account remains active."
+  },
+  {
+    "id": "pricing_008",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow refund policy: TechFlow does not offer refunds for unused time on monthly plans. For annual plans, a full refund is available within 14 days of initial purchase or annual renewal. After 14 days, no refunds are issued but you may cancel to prevent future charges — your access continues until the end of the paid period."
+  },
+  {
+    "id": "pricing_009",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "What happens when you exceed your storage limit: TechFlow sends email warnings at 80% and 95% of your storage limit. If you reach 100%, you can no longer upload new attachments until you free up space or upgrade your plan. Existing files and all other features remain accessible. Upgrading takes effect immediately."
+  },
+  {
+    "id": "pricing_010",
+    "category": "pricing_info",
+    "source": "Pricing Page",
+    "date": "2025-01-01",
+    "text": "TechFlow startup program: Startups under 3 years old with fewer than 20 employees can apply for TechFlow's startup program — 6 months of the Business plan at no cost. Apply at techflow.io/startup with your company's founding date and LinkedIn page. Program acceptance is at TechFlow's discretion and is limited to one application per company."
+  }
+]
