@@ -13,4 +13,5 @@ wheels/
 .chroma/
 .chroma_lc/
 *.pyc
-.DS_Store
+.DS_Store.chroma_lc/
+.chroma/
